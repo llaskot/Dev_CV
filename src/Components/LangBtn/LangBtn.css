@@ -1,0 +1,21 @@
+.button:focus {
+    outline: none;
+}
+.button:active {
+    transform: scale(0.95);
+    background: #213547;
+}
+
+.btns {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.print {
+    background: gray;
+    color: blue;
+    font-size: 1.3rem;
+    padding: 0 0 5px 0;
+
+}

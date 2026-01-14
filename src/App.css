@@ -1,0 +1,43 @@
+#root {
+  background: #f0f0f0;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font: 800 14px "Lucida Grande", Arial, sans-serif;
+  color: #171717;
+}
+
+
+.resume-container {
+  background: white;
+  width: 800px;
+  padding: 40px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  line-height: 1.5;
+}
+
+.head-row {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: #978a8a solid 3px;
+  /*align-items: center;*/
+}
+
+.main {
+  display: flex;
+}
+
+.left {
+  min-width: 250px;
+  max-width: 270px;
+  text-align: left;
+  border-right: #978a8a solid 3px;
+  padding-right: 30px;
+}
+
+
+.right {
+  padding-left: 30px;
+}
+
