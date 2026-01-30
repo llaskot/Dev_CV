@@ -18,7 +18,7 @@
       ]
     },
     {
-      "block_name": "Skills",
+      "block_name": "SKILLS",
       "block_items": [
         {
           "sub_block_name": "PROGRAMMING",
@@ -126,7 +126,8 @@
       "list": [
         "Technology: Node.js, Express.js, MySQL, Colyseus(WebSockets)",
         "Role: backend developer"
-      ]
+      ],
+      "link": "https://github.com/llaskot/card_game"
     },
     {
       "short": "Corpy chat - messenger",

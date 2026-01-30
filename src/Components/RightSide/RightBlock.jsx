@@ -8,6 +8,11 @@ export default function RightBlock(props) {
             {props.short && <div className={"br short"}>{props.short}</div>}
             {props.full && <div className={"full br"}>{props.full}</div>}
             {props.list && props.list.map((item, i) => <Item key={i} item={item} />)}
+            {props.link && <div className={"full br"}>
+                <a href={props.link}   target="_blank"
+                   rel="noopener noreferrer"> {props.link}</a>
+            </div>}
+
         </div>
     )
 }
