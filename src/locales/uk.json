@@ -95,7 +95,8 @@
       "list": [
         "Технології: Node.js, Express.js, MongoDB, React, Docker",
         "Роль: backend розробник"
-      ]
+      ],
+      "link": "https://github.com/llaskot/Chronos"
     },
     {
       "short": "Marvel — карткова гра",
@@ -110,7 +111,8 @@
       "list": [
         "Технології: C, SQLite3, GTK4",
         "Роль: backend розробник"
-      ]
+      ],
+      "link": "https://github.com/llaskot/Uchat"
     },
     {
       "name": "ОСВІТА",

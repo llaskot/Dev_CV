@@ -111,15 +111,16 @@
       "list": [
         "Technology: Node.js, Express.js, MySQL, React",
         "Role: full-stack developer"
-      ]
-
+      ],
+      "link": "https://github.com/llaskot/USOF"
     },
     {
       "short": "Chronos - Time Management Calendar",
       "list": [
         "Technology: Node.js, Express.js, MongoDB, React, Docker",
         "Role: backend developer"
-      ]
+      ],
+      "link": "https://github.com/llaskot/Chronos"
     },
     {
       "short": "Marvel - Card Game",
@@ -134,7 +135,8 @@
       "list": [
         "Technology: C, SQLite3, GTK4",
         "Role: backend developer"
-      ]
+      ],
+      "link": "https://github.com/llaskot/Uchat"
     },
     {
       "name": "EDUCATION",
