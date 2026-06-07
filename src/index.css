@@ -62,6 +62,9 @@ button:focus-visible {
   .resume-container * {
     visibility: visible;
   }
+  .resume-container .btns{
+    display: none;
+  }
 
   .resume-container {
     position: absolute;
