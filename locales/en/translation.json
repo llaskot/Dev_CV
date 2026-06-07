@@ -23,8 +23,7 @@
         {
           "sub_block_name": "PROGRAMMING",
           "items": [
-            "JS, Python, TS",
-            "TypeScript",
+            "JS, Python",
             "Java, C",
             "HTML, CSS",
             "Node.js, Express",
@@ -33,7 +32,6 @@
           ],
           "values": [
             80,
-            55,
             40,
             65,
             80,
