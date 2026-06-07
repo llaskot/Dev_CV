@@ -29,7 +29,8 @@ i18n
         interpolation: { escapeValue: false },
         backend: {
             // Путь, откуда брать файлы. Обязательно с /Dev_CV/, так как это базовый путь на GitHub Pages
-            loadPath: '/Dev_CV/locales/{{lng}}/translation.json'
+            // loadPath: '/Dev_CV/locales/{{lng}}/translation.json'
+            loadPath: `https://raw.githubusercontent.com/llaskot/Dev_CV/main/public/locales/{{lng}}.json?v=` + new Date().getTime()
         }
     });
 
