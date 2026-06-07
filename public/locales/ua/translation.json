@@ -1,27 +1,27 @@
 {
   "name": {
-    "first": "Kostiantyn",
-    "second": "Lazebnyi",
-    "position": "software developer"
+    "first": "Костянтин",
+    "second": "Лазебний",
+    "position": "розробник програмного забезпечення"
   },
   "left": [
     {
-      "block_name": "CONTACTS",
+      "block_name": "КОНТАКТИ",
       "block_items": [
         {
           "items": [
-            "PHONE_____+380631111007",
-            "TELEGRAMM_____@laskot",
-            "MAIL___llaskot@gmail.com"
+            "ТЕЛЕФОН___+380631111007",
+            "ТЕЛЕГРАМ________@laskot",
+            "ПОШТА__llaskot@gmail.com"
           ]
         }
       ]
     },
     {
-      "block_name": "SKILLS",
+      "block_name": "НАВИЧКИ",
       "block_items": [
         {
-          "sub_block_name": "PROGRAMMING",
+          "sub_block_name": "ПРОГРАМУВАННЯ",
           "items": [
             "JS, Python",
             "Java, C",
@@ -30,125 +30,99 @@
             "React, Redux",
             "Flet, Pandas"
           ],
-          "values": [
-            80,
-            40,
-            65,
-            80,
-            55,
-            50
-          ]
+          "values": [80, 40, 65, 80, 55, 50]
         },
         {
-          "sub_block_name": "DATABASES",
+          "sub_block_name": "БАЗИ ДАНИХ",
           "items": [
             "MySQL, PostgreSQL",
             "SQLite, Microsoft SQL",
             "MongoDB"
           ],
-          "values": [
-            80,
-            50,
-            65
-          ]
+          "values": [80, 50, 65]
         },
         {
-          "sub_block_name": "OTHER",
+          "sub_block_name": "ІНШЕ",
           "items": [
             "Docker",
             "Postman",
             "Jira, Confluence, Trello"
           ],
-          "values": [
-            70,
-            90,
-            80
-          ]
+          "values": [70, 90, 80]
         }
-
       ]
     },
     {
-      "block_name": "LANGUAGES",
+      "block_name": "МОВИ",
       "block_items": [
         {
           "items": [
-            "Ukrainian",
-            "English"
+            "Українська",
+            "Англійська"
           ],
-          "values": [
-            95,
-            70
-          ]
+          "values": [95, 70]
         }
       ]
     }
-
-
   ],
   "right": [
     {
-      "name": "PROFILE",
-      "full": "  I am a 3rd-year CS student looking for a developer role. My previous experience in Automation Testing (Java/Python/JS) gives me a unique advantage: I write clean, testable, and production-ready code. I have a deep understanding of the SDLC and a proven track record of building complex automated testing systems from scratch. I’m interested in participating in practice, primarily in development: web full-stack, backend, and databases."
-
+      "name": "ПРО МЕНЕ",
+      "full": "Я студент 3-го курсу за фахом 'Інформаційні системи та технології' та шукаю позицію розробника. Мій попередній досвід в Автоматизації Тестування  (Java/Python/JS) дає мені перевагу: я пишу чистий, тестований і готовий до продакшену код. Маю глибоке розуміння SDLC та підтверджений досвід побудови складних систем автоматизованого тестування з нуля. Насамперед цікавить практика у розробці: web full-stack, бекенд та бази даних."
     },
     {
-      "name": "WORK EXPERIENCE",
-      "date": "August 2021 – March 2024",
-      "short": "Company: Integrio Systems\nRole: General QA Engineer",
-      "full": "Developing, implementation, support, and executing E2E and API automated test framework"
-
+      "name": "ДОСВІД РОБОТИ",
+      "date": "Серпень 2021 – Березень 2024",
+      "short": "Компанія: Integrio Systems\nПосада: QA Engineer (General)",
+      "full": "Розробка, впровадження, підтримка та виконання E2E і API автоматизованих тестових фреймворків"
     },
     {
-      "date": "March 2021 - August 2021",
-      "short": "Company: Apibest\nRole: Manual QA Engineer",
-      "full": "Developing, support, and executing E2E and API manual tests.\nDeveloping selenium scripts that saved me 1 hour a day doing the daily routine for me "
+      "date": "Березень 2021 – Серпень 2021",
+      "short": "Компанія: Apibest\nПосада: Manual QA Engineer",
+      "full": "Розробка, підтримка та виконання E2E і API ручних тестів.\nРозробка Selenium-скриптів, що заощаджували близько 1 години щодня на рутинних задачах"
     },
     {
-      "name": "INNOVATION CAMPUS PROJECTS",
-      "date": "September 2024 - December 2025",
-      "short": "Usof - Q&A website ",
+      "name": "ПРОЄКТИ INNOVATION CAMPUS",
+      "date": "Вересень 2024 – Грудень 2025",
+      "short": "Usof — сайт запитань і відповідей",
       "list": [
-        "Technology: Node.js, Express.js, MySQL, React",
-        "Role: full-stack developer"
+        "Технології: Node.js, Express.js, MySQL, React",
+        "Роль: full-stack розробник"
       ],
       "link": "https://github.com/llaskot/USOF"
     },
     {
-      "short": "Chronos - Time Management Calendar",
+      "short": "Chronos — календар керування часом",
       "list": [
-        "Technology: Node.js, Express.js, MongoDB, React, Docker",
-        "Role: backend developer"
+        "Технології: Node.js, Express.js, MongoDB, React, Docker",
+        "Роль: backend розробник"
       ],
       "link": "https://github.com/llaskot/Chronos"
     },
     {
-      "short": "Marvel - Card Game",
+      "short": "Marvel — карткова гра",
       "list": [
-        "Technology: Node.js, Express.js, MySQL, Colyseus(WebSockets)",
-        "Role: backend developer"
+        "Технології: Node.js, Express.js, MySQL, Colyseus (WebSockets)",
+        "Роль: backend розробник"
       ],
       "link": "https://github.com/llaskot/card_game"
     },
     {
-      "short": "Corpy chat - messenger",
+      "short": "Corpy chat — месенджер",
       "list": [
-        "Technology: C, SQLite3, GTK4",
-        "Role: backend developer"
+        "Технології: C, SQLite3, GTK4",
+        "Роль: backend розробник"
       ],
       "link": "https://github.com/llaskot/Uchat"
     },
     {
-      "name": "EDUCATION",
-
+      "name": "ОСВІТА",
       "list": [
-        "Kharkiv College of Medical Equipment. Major - Medical equipment and electronics.",
-        "Courses: Basic software testing module",
-        "Courses: Practical SQL; UNIX and networking basics",
-        "Courses: Stress Testing; Web servers and Web services"
+        "Харківський коледж медичного обладнання. Спеціальність — медичне обладнання та електроніка.",
+        "Курси: базовий модуль з тестування ПЗ",
+        "Курси: практичний SQL; основи UNIX та мереж",
+        "Курси: навантажувальне тестування; вебсервери та вебсервіси"
       ]
-
     }
-
   ]
 }
