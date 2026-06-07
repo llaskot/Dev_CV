@@ -24,6 +24,7 @@
           "sub_block_name": "PROGRAMMING",
           "items": [
             "JS, Python",
+            "TypeScript",
             "Java, C",
             "HTML, CSS",
             "Node.js, Express",
@@ -32,6 +33,7 @@
           ],
           "values": [
             80,
+            65,
             40,
             65,
             80,
