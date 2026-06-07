@@ -24,13 +24,24 @@
           "sub_block_name": "ПРОГРАМУВАННЯ",
           "items": [
             "JS, Python",
+            "TypeScript",
             "Java, C",
             "HTML, CSS",
             "Node.js, Express",
             "React, Redux",
+            "Nest", "FastAPI",
             "Flet, Pandas"
           ],
-          "values": [80, 40, 65, 80, 55, 50]
+          "values": [
+            80,
+            65,
+            40,
+            65,
+            80,
+            55,
+            70,
+            50
+          ]
         },
         {
           "sub_block_name": "БАЗИ ДАНИХ",

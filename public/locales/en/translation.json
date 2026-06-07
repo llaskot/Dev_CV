@@ -29,6 +29,7 @@
             "HTML, CSS",
             "Node.js, Express",
             "React, Redux",
+            "Nest", "FastAPI",
             "Flet, Pandas"
           ],
           "values": [
@@ -38,6 +39,7 @@
             65,
             80,
             55,
+            70,
             50
           ]
         },
