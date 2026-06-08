@@ -111,6 +111,14 @@
     {
       "name": "INNOVATION CAMPUS PROJECTS",
       "date": "September 2024 - May 2026",
+      "short": "Webster: web-based tool to help ordinary users to practice in graphic design and photo editing, infographic creation and, in general, the creation of beautiful visuals with no specific, additional skills.",
+      "list": [
+        "Technology: NestJS, TS, PostgreSQL, React, Docker, MINIO",
+        "Role: backend developer"
+      ],
+      "link": "https://vinci.pp.ua/"
+    },
+    {
       "short": "Usof - Q&A website ",
       "list": [
         "Technology: Node.js, Express.js, MySQL, React",
