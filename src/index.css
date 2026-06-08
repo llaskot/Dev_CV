@@ -71,8 +71,9 @@ button:focus-visible {
     display: none;
   }
 
-  .head-row .btns .weblink {
-    display: block;
+  .weblink {
+    display: flex !important;
+    visibility: visible !important;
   }
 
   .resume-container {
@@ -80,5 +81,10 @@ button:focus-visible {
     left: 0;
     top: 0;
     width: 210mm;
+  }
+
+  .bar, .bar-fill {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
   }
 }

@@ -10,17 +10,20 @@ export default function  Lang(){
     };
     if (i18n.language === "ua") child = "EN >"
     return (
-        <div className="btns">
-            <button  className="button" onClick={() => {
-                i18n.language === "en" ? switchLang("ua") : switchLang("en")
-            }}>{child}</button>
-            <button className="print" onClick={() => window.print()}>
-                🖨️
-            </button>
+
+        <>
+            <div className="btns">
+                <button className="button" onClick={() => {
+                    i18n.language === "en" ? switchLang("ua") : switchLang("en")
+                }}>{child}</button>
+                <button className="print" onClick={() => window.print()}>
+                    🖨️
+                </button>
+            </div>
             <div className={"weblink"}>
-                <a href="http://localhost:5173/Dev_CV/"   target="_blank"
+                <a href="https://llaskot.github.io/Dev_CV/" target="_blank"
                    rel="noopener noreferrer"> Web version</a>
             </div>
-        </div>
+        </>
     )
 }
