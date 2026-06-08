@@ -24,18 +24,22 @@
           "sub_block_name": "PROGRAMMING",
           "items": [
             "JS, Python",
+            "TypeScript",
             "Java, C",
             "HTML, CSS",
             "Node.js, Express",
             "React, Redux",
+            "Nest, FastAPI",
             "Flet, Pandas"
           ],
           "values": [
             80,
+            65,
             40,
             65,
             80,
             55,
+            70,
             50
           ]
         },
@@ -89,7 +93,7 @@
   "right": [
     {
       "name": "PROFILE",
-      "full": "  I am a 3rd-year CS student looking for a developer role. My previous experience in Automation Testing (Java/Python/JS) gives me a unique advantage: I write clean, testable, and production-ready code. I have a deep understanding of the SDLC and a proven track record of building complex automated testing systems from scratch. I’m interested in participating in practice, primarily in development: web full-stack, backend, and databases."
+      "full": "  I am a 4rd-year CS student looking for a developer role. My previous experience in Automation Testing (Java/Python/JS) gives me a unique advantage: I write clean, testable, and production-ready code. I have a deep understanding of the SDLC and a proven track record of building complex automated testing systems from scratch. I’m interested in participating in practice, primarily in development: web full-stack, backend, and databases."
 
     },
     {
@@ -107,6 +111,21 @@
     {
       "name": "INNOVATION CAMPUS PROJECTS",
       "date": "September 2024 - May 2026",
+      "short": "Webster: web-based tool to help ordinary users to practice in graphic design and photo editing, infographic creation and, in general, the creation of beautiful visuals with no specific, additional skills.",
+      "list": [
+        "Technology: NestJS, TS, PostgreSQL, React, Docker, MINIO",
+        "Role: backend developer"
+      ],
+      "link": "https://vinci.pp.ua/"
+    },
+    {
+      "short": "Uevent: service to unite people with the same interests ",
+      "list": [
+        "Technology: NestJS, TS, PostgreSQL, React, Docker",
+        "Role: backend developer"
+      ]
+    },
+    {
       "short": "Usof - Q&A website ",
       "list": [
         "Technology: Node.js, Express.js, MySQL, React",
@@ -138,6 +157,17 @@
       ],
       "link": "https://github.com/llaskot/Uchat"
     },
+    {
+      "name": "EPAM Systems study project",
+      "date": "March 2026 - May 2026",
+      "short": "A web application for automating the work of a car rental service.",
+      "list": [
+        "Technology: Python, FastAPI, Mongo, TS, React, Docker",
+        "Role: full-stack developer"
+      ],
+      "link": "https://github.com/llaskot/sw_architecture_project.git"
+    },
+
     {
       "name": "EDUCATION",
 
