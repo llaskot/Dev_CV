@@ -119,6 +119,13 @@
       "link": "https://vinci.pp.ua/"
     },
     {
+      "short": "Uevent: service to unite people with the same interests ",
+      "list": [
+        "Technology: NestJS, TS, PostgreSQL, React, Docker",,,
+        "Role: backend developer"
+      ]
+    },
+    {
       "short": "Usof - Q&A website ",
       "list": [
         "Technology: Node.js, Express.js, MySQL, React",
@@ -150,6 +157,17 @@
       ],
       "link": "https://github.com/llaskot/Uchat"
     },
+    {
+      "name": "EPAM Systems study project",
+      "date": "March 2026 - May 2026",
+      "short": "A web application for automating the work of a car rental service.",
+      "list": [
+        "Technology: Python, FastAPI, Mongo, TS, React, Docker",
+        "Role: full-stack developer"
+      ],
+      "link": "https://github.com/llaskot/sw_architecture_project.git"
+    },
+
     {
       "name": "EDUCATION",
 
