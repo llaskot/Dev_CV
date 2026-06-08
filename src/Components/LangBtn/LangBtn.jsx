@@ -17,6 +17,10 @@ export default function  Lang(){
             <button className="print" onClick={() => window.print()}>
                 🖨️
             </button>
+            <div className={"weblink"}>
+                <a href="http://localhost:5173/Dev_CV/"   target="_blank"
+                   rel="noopener noreferrer"> Web version</a>
+            </div>
         </div>
     )
 }

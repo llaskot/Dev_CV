@@ -36,6 +36,7 @@ button {
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
+  color: #fae8b5;
 }
 button:hover {
   border-color: #646cff;
@@ -44,6 +45,10 @@ button:hover {
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
+}
+
+.weblink {
+  display: none;
 }
 
 @media (prefers-color-scheme: light) {
@@ -64,6 +69,10 @@ button:focus-visible {
   }
   .resume-container .btns{
     display: none;
+  }
+
+  .head-row .btns .weblink {
+    display: block;
   }
 
   .resume-container {
